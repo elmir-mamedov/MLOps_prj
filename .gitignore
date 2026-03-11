@@ -1,8 +1,8 @@
 .venv/
 .idea/
+.env
 mlflow.db
 mlruns/
-__pycache__/
-
-.env
 mlartifacts/
+__pycache__/
+*.pyc
